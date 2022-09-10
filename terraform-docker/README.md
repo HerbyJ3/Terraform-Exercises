@@ -1,1 +1,1 @@
-**Learning about random resources in Terraform**
+**Learning about random resources in while deploying nodered through Docker from Terraform**
